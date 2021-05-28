@@ -22,11 +22,11 @@ def game_hash
     # away team
     :away=> {
       
-      
+      # name
       :team_name=>"",
-      
+      # colors
       :colors=>[],
-      
+      # players (AoH)
       :players=>[ { :player_name=> "",  :number=> ,  :shoe=> ,  :points=>,  :rebounds=> , 
          :assists=> ,  :steals=> ,  :blocks=> ,  :slam_dunks=> }
       ]
