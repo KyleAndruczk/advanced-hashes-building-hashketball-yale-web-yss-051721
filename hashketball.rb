@@ -5,11 +5,11 @@ def game_hash
     
     # home team
     :home=> {
-      
+      # name
       :team_name=>"Brooklyn Nets",
-      
+      # colors
       :colors=>["Black", "White"],
-      
+      # plays AoH
       :players=>[ { :player_name=> "",  :number=> ,  :shoe=> ,  :points=>,  :rebounds=> , 
          :assists=> ,  :steals=> ,  :blocks=> ,  :slam_dunks=> }
       ]
