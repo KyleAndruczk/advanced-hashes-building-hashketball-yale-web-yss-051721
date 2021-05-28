@@ -1,8 +1,7 @@
 # Write your code here!
 def game_hash
   
-  hash = {
-    
+  bb+hash = {
     # home team
     :home=> {
       # name
@@ -17,15 +16,9 @@ def game_hash
         { :player_name=>"Mason Plumlee",  :number=>1,  :shoe=>19,  :points=>26,  :rebounds=>11, :assists=>6,  :steals=>3,  :blocks=>8,  :slam_dunks=>5 },
         { :player_name=>"Jason Terry",  :number=>31,  :shoe=>15,  :points=>19,  :rebounds=>2, :assists=>2,  :steals=>4,  :blocks=>11,  :slam_dunks=>1 }
       ]
-      
-      
-      
     },
-    
-    
     # away team
     :away=> {
-      
       # name
       :team_name=>"Charlotte Hornets",
       # colors
@@ -38,15 +31,8 @@ def game_hash
         { :player_name=>"Ben Gordon",  :number=>8,  :shoe=>15,  :points=>33,  :rebounds=>3, :assists=>2,  :steals=>1,  :blocks=>1,  :slam_dunks=>0 },
         { :player_name=>"Kemba Walker",  :number=>33,  :shoe=>15,  :points=>6,  :rebounds=>12, :assists=>12,  :steals=>7,  :blocks=>5,  :slam_dunks=>12 }
       ]
-      
-      
-      
     }
-    
-    
-    
   }
-  
   hash
   
   
