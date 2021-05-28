@@ -1,7 +1,7 @@
 # Write your code here!
 def game_hash
   
-  bb+hash = {
+  bb_hash = {
     # home team
     :home=> {
       # name
