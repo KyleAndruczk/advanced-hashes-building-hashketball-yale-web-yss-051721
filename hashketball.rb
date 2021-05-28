@@ -29,7 +29,7 @@ def game_hash
       # name
       :team_name=>"Charlotte Hornets",
       # colors
-      :colors=>[],
+      :colors=>["Turquoise", "Purple"],
       # players (AoH)
       :players=>[ { :player_name=> "",  :number=> ,  :shoe=> ,  :points=>,  :rebounds=> , 
          :assists=> ,  :steals=> ,  :blocks=> ,  :slam_dunks=> }
