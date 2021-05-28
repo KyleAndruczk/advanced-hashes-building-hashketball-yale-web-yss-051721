@@ -6,7 +6,7 @@ def game_hash
     # home team
     :home=> {
       
-      :team_name=>"",
+      :team_name=>"Brooklyn Nets",
       
       :colors=>[],
       
