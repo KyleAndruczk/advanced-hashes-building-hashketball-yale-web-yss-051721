@@ -33,7 +33,6 @@ def game_hash
       ]
     }
   }
+  
   bb_hash
-  
-  
 end 
